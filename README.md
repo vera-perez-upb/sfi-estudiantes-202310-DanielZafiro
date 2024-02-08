@@ -2,10 +2,9 @@
 
 ## Equipo Estrellitas
 
-|Integrantes | ID |
-|:-----------:|:------:|
-|Daniel Ardila | 000388882 |
-|Maria Fernanda | |
-|Andres | |
+|Integrantes | ID | Repositorio de trabajo |
+|:-----------:|:------:|:-----|
+|Daniel Ardila | 000388882 | https://github.com/DanielZafiro/First_RaspPico_Project |
+|Maria Fernanda | | |
+|Andres | | |
 
-Enlace al Repositorio Publico del projecto RaspberryPi PICO: https://github.com/DanielZafiro/First_RaspPico_Project
