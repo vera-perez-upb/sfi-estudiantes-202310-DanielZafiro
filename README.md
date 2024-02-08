@@ -8,6 +8,8 @@
 |Maria Fernanda | |
 |Andres | |
 
+Enlace al Repositorio Publico del projecto RaspberryPi PICO: https://github.com/DanielZafiro/First_RaspPico_Project
+
 
 **Conclusiones** de la actividad 3 y 3a. Inicialmente con el codigo en 100, el LED parpadeaba muy rapido 
 
