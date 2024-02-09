@@ -5,6 +5,6 @@
 |Integrantes | ID | Repositorio de trabajo |
 |:-----------:|:------:|:-----|
 |Daniel Ardila | 000388882 | https://github.com/DanielZafiro/First_RaspPico_Project |
-|Maria Fernanda |  | |
+|Maria Fernanda | 000389208 | |
 |Andres Martinez | 000396102 | |
 
